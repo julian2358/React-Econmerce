@@ -60,22 +60,22 @@ render(){
             
             <div id ="inner-container">
                 
-        <video width="100%"   autoPlay muted loop id="myVideo">
+        <video   autoPlay muted loop id="myVideo">
             
-            <source src="./icons/video.mp4" type="video/mp4" />
+            <source src="./icons/benz.mp4" type="video/mp4" />
                 
           </video>
 
           <div id="overlay"> 
               
-          <img id="spedo-logo"  src="https://i.dlpng.com/static/png/66143_preview.png" alt="speedomter logo" /> 
+          <img id="spedo-logo"  src="https://www.searchpng.com/wp-content/uploads/2019/03/Speed-meter-PNG-715x715.png" alt="speedomter logo" /> 
  <p id="overlay--text_1">Quickest acceleration—from zero to 60 mph in as little as 1.9 seconds.</p>
             <div class="vl"></div>
             <h1 class="tag-2"><span class="num">250</span>mph</h1>
             <p id="overlay--text_2">Improved handling and aerodynamics allow for a top speed of 250+ mph</p>
             <div class="vl"></div>
             <h1 class="tag-2"><span class="num">AWD </span></h1>
-            <p id="overlay--text_3">Dual Motor All-Wheel Drive instantly controls traction and torque, in all weather conditions</p>
+            <p id="overlay--text_3">Dual Motor All-Wheel Drive instantly controls traction and torque</p>
             
 
 

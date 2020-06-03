@@ -182,7 +182,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     padding: 0;
     margin: 0;
     max-height: 940px;
-    background-color: #56B05B;
+    background-color: #1D4C41;
 
 
 }
@@ -196,13 +196,14 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   }
 
   #inner-container{
-      width: 100%;
+      width: 100vw;
       height: 100%;
   }
 
   #myVideo{
       height: 100%;
       object-fit: fill;
+      border-radius: 30px;
   }
 
   h1{
@@ -258,14 +259,15 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     border-left: 2px solid white;
     height: 80px;
     text-align: center;
-    padding: 5px;
+    padding: 20px;
   }
 
   #overlay{
       position: relative;
-      bottom: 200px;
+      top: 230px;
+      right: 1000px;
       display: flex;
-      
+      margin: 10;
       
   }
 p #overlay--text_1 {
@@ -308,6 +310,9 @@ p #overlay--text_1 {
  #overlay--text_3{
      position: relative;
      right: 50px;
+     font-size: 80px;
+     font-weight: bolder;
+     
  }
 
  #overlay p{

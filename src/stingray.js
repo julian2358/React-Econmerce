@@ -7,7 +7,7 @@ export default class Stingray extends React.Component {
     render(){
         return(
             <div>
-                 <section id="prt1">
+                 <section id="prt1-stingray">
     <div id ="innerpt1">
 
         

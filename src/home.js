@@ -36,7 +36,7 @@ export default class Home extends React.Component{
   
     render(){
         return(
-            <div>
+            <div id='styl-f'>
 
 
 <h1 id='big-lum'>Luminosity</h1>
