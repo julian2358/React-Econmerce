@@ -45,7 +45,7 @@ render(){
             </div>
 
             <div id="060"> 
-                <img id="sped" alt='spedometer' src="https://i.dlpng.com/static/png/66143_preview.png" width="163" height="163" />
+                <img id="sped" alt='spedometer' src="https://www.searchpng.com/wp-content/uploads/2019/03/Speed-meter-PNG-715x715.png" width="163" height="163" />
                 <p><span class="effect-num"> 0 </span> to <span class="effect-num"> 60 </span>in <span class="effect"> 1.9  </span>Seconds</p>
             </div>
         </div>
