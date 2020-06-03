@@ -1,0 +1,150 @@
+body,html{
+    background-color: #191414;
+    font-family: 'Oxanium', cursive;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+
+#navsys {
+    border: 3px solid white;
+    max-width: 30%;
+    text-align: center;
+    margin: auto;
+
+  
+    
+
+    
+}
+
+#bg-back{
+    background-color: black;
+}
+
+#navlist{
+    list-style-type: none;
+    padding: 0px;
+    font-family: 'Oxanium', cursive;
+    text-shadow: -1px 1px 2px white;
+    position: sticky;
+  
+   
+    
+}
+
+#navlist li {
+   
+    padding: 30px;
+    color: white;
+    font-size: 30px;
+   
+
+
+    
+}
+
+#navlist li a {
+    text-decoration: none;
+    color: white;
+}
+
+#navlist li a:hover {
+    text-decoration: none;
+    background-color: #3efa70;
+    border-radius: 15px;
+    color: #eb345b;
+}
+
+
+#top-text{
+    color: #297C99;
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Oxanium', cursive;
+    text-shadow: -1px 1px 2px #1DB954;
+}
+
+
+#user, #email, #phone{
+    
+border-radius: 20px;
+min-width: 100%;
+
+font-size: 40px;
+margin-bottom: 30px;
+
+}
+textarea{
+    font-size: 20px;
+}
+#sub, #reset{
+    
+    border-radius: 10px;
+    
+
+}
+#sub{
+    background-color: #3efa70;
+    color: black;
+    border-color: #3efa70;
+    font-weight: bold;
+}
+
+#reset{
+    background-color: #eb345b;
+    border-color: #eb345b;
+    font-weight: bold;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+#form-container{
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer{
+    background-color: black;
+}
+#ftr{
+    font-family: 'Oxanium', cursive;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+#icons{
+    display: flex;
+    justify-content: center;
+    
+}
+#icons img{
+    padding-right: 20px;
+}
+
+.error{
+    color: red;
+    margin: 10;
+}
+
+@media only screen and (max-width: 800px){
+
+    textarea{
+        max-width: 700px;
+    }
+    #form-container{
+        display: block;
+    }
+    
+    #navlist, #navlist li {
+    
+        display: block;
+      
+        color: purple;
+    
+    }
+
+}

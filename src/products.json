@@ -1,0 +1,88 @@
+{
+	"products" :[
+		{
+			"name" : "Lumi Roadster",
+			"price": " - $50,000",
+			"description": "Lumi's Base model Roadster, Built to last.",
+			"img": "https://i.ya-webdesign.com/images/tesla-model-3-png-8.png"
+		},
+
+			{
+			"name" : "Lumi Roadster Range",
+			"price": "- $57,500",
+			"description": "Lumi's Range model Roadster, Built for convience.",
+			"img": "https://pngriver.com/wp-content/uploads/2018/04/Download-Tesla-PNG-Transparent-Image.png"
+		},
+
+			{
+			"name" : "Lumi Roadster GT",
+			"price": "- $97,500",
+			"description": "Lumi's GT model Roadster, Built to rule the streets.",
+			"img": "https://www.jing.fm/clipimg/full/122-1229022_tesla-roadster-png-supercar.png"
+		},
+
+			{
+			"name" : "Lumi Roadster Track",
+			"price": "- $200,000",
+			"description": "Lumi's Track model Roadster, Built for a collector.",
+			"img": "https://img.pngio.com/2020-tesla-roadster-reviews-ratings-prices-consumer-reports-tesla-roadster-png-720_525.jpg"
+		},
+
+			{
+			"name" : "Lumi Stingray Base",
+			"price": " - $35,000",
+			"description": "Lumi's Base model Stingray, Built for strength.",
+			"img": "https://www.pngarts.com/files/2/Dodge-Challenger-Transparent-Background-PNG.png"
+		},
+
+			{
+			"name" : "Lumi Stingray Range",
+			"price": " - $40,000",
+			"description": "Lumi's Range model Stingray, Built for endurance.",
+			"img": "https://purepng.com/public/uploads/large/purepng.com-hennessey-dodge-challenger-srt8-392-hpe600-carcarvehicletransporthennessey-961524666029mk7tt.png"
+		},
+
+			{
+			"name" : "Lumi Stingray Hellcat",
+			"price": " - $75,000",
+			"description": "Lumi's Hellcat model Stingray, Built for trouble.",
+			"img": "https://cdn.jdpower.com/ChromeImageGallery/Expanded/Transparent/640/2018DOC19_640/2018DOC190177_640_01.png"
+		},
+
+			{
+			"name" : "Lumi Stingray Demon",
+			"price": " - $115,000",
+			"description": "Lumi's Demon model Stingray, Built for the Track.",
+			"img": "https://www.fmdt.info/img/dodge-models/2018-dodge-challenger-sxt-32-white.png"
+		},
+
+			{
+			"name" : "Lumi Cruiser Base",
+			"price": " - $45,000",
+			"description": "Lumi's Base model Cruiser, Built for the family.",
+			"img": "https://vignette.wikia.nocookie.net/forzamotorsport/images/3/34/HOR_XB1_Porsche_Cayenne_12.png/revision/latest?cb=20200320140118"
+		},
+
+			{
+			"name" : "Lumi Cruiser Range",
+			"price": " - $50,000",
+			"description": "Lumi's Range model Cruiser, Built for road trips.",
+			"img": "https://di-uploads-pod6.dealerinspire.com/landroverdarien/uploads/2019/09/2019-tesla-model-x-blue.png"
+		},
+
+			{
+			"name" : "Lumi Cruiser S",
+			"price": " - $65,000",
+			"description": "Lumi's S model Cruiser, Built for sport",
+			"img": "https://crls.io/s/evox%2Fcolor_2400_014_png%2FMY2019%2F13720%2F13720_cc2400_014_PBSB.png/feature/n/tesla-model-x.png"
+		},
+
+			{
+			"name" : "Lumi Cruiser GT",
+			"price": " - $98,000",
+			"description": "Lumi's GT model Cruiser, Built to be the fastest SUV ever produced.",
+			"img": "https://pngimg.com/uploads/tesla_car/tesla_car_PNG33.png"
+		}
+
+	]
+}
