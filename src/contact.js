@@ -24,9 +24,11 @@ export default class Contact extends React.Component{
     constructor(props) {
         super(props);
         this.state = {
+          //pass property for each input into state
           fullName: null,
           email: null,
           password: null,
+          // error object holds text for erros
           errors: {
             fullName: '',
             email: '',
@@ -35,7 +37,7 @@ export default class Contact extends React.Component{
         };
       }
 
-      //on event change prevent default and check for erros
+      //on event change prevent default and check for errors
       handleChange = (event) => {
         event.preventDefault();
         const { name, value } = event.target;
