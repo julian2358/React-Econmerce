@@ -8,8 +8,30 @@ import prodata from './products.json';
 
 
 export default class Products extends React.Component{
-    render(){
-      return(
+  state = {}
+
+  componentDidMount () {
+    fetch('./products.json')
+      .then(res => res.json())
+      .then(this.onLoad);
+  }
+
+  parseData (response) {
+    return response.data;
+  }
+
+  onLoad = (data) => {
+    this.setState({
+      data: this.parseData(data)
+    });
+  }
+
+    
+  render () {
+    const { data } = this.state;
+  
+  
+      return (
 
     
        
@@ -159,8 +181,7 @@ export default class Products extends React.Component{
       )
     }
   }
-
-
+}
 
 
 
