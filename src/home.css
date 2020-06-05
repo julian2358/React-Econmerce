@@ -210,6 +210,7 @@ box-sizing: border-box;
   #big-lum{
     font-size: 120px;
     background-color: black;
+    text-shadow: 2px 1px white;
   }
   #slide-container{
     background-color: black;
